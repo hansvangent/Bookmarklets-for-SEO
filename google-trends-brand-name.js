@@ -1,0 +1,1 @@
+(function(){%20window.open('https://trends.google.com/trends/explore?q='+location.hostname.replace('www.','').replace('.com','').replace('.co.uk','').replace('.org','').replace('.net','').replace('.ca','').replace('.fr','').replace('.ie','').replace('.be','').replace('.gov','').replace('.mil','').replace('.edu','').replace('.io',''))})();
