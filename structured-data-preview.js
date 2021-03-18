@@ -1,0 +1,1 @@
+location.href='https://search.google.com/structured-data/testing-tool/u/0/#url='+encodeURIComponent(location.href))})();
