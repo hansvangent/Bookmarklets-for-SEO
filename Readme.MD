@@ -24,5 +24,5 @@ You’re able to see the website in a certain period from the past. This might h
 This bookmarklet checks the Google cache for the URL you’re currently on. It’s extremely useful for SEO. After Google crawls a page it stores a copy and stores it. You can use this bookmarklet to access the stored copy to see the page in case it doesn’t load or it’s loading too slowly. Or, you can see how it looks in cache to see if the page has suffered any modifications lately.
 Original code: [Noah Learner @noahlearner](https://twitter.com/noahlearner/status/1372530137627959305)
 
-# [weekly-index-status.js] (https://raw.githubusercontent.com/jcvangent/bookmarklets-for-seo/master/weekly-index-status.js)
+# [weekly-index-status.js](https://raw.githubusercontent.com/jcvangent/bookmarklets-for-seo/master/weekly-index-status.js)
 Did you make a recent change on your website and want to know if it is already indexed? This bookmarklet shows you which pages have been indexed by Google in the last 7 days for a certain site. That way you can monitor the website to see their content activity within a week.
