@@ -1,0 +1,1 @@
+(function(){%20window.open('https://web.archive.org/web/*/'+encodeURIComponent(location.href))})();
