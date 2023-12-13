@@ -1,1 +1,1 @@
-(function(){%20window.open('https://web.archive.org/web/*/'+encodeURIComponent(location.href))})();
+javascript:(function(){window.open('https://web.archive.org/web/*/'+location.href)})();

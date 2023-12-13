@@ -1,1 +1,1 @@
-(function(){%20window.open('https://developers.google.com/speed/pagespeed/insights/?url='+encodeURIComponent(location.href))})();
+javascript:(function(){%20window.open('https://pagespeed.web.dev/analysis?url='+encodeURIComponent(location.href))})();

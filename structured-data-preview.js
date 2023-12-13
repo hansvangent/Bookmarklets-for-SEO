@@ -1,1 +1,1 @@
-location.href='https://search.google.com/structured-data/testing-tool/u/0/#url='+encodeURIComponent(location.href))})();
+javascript:location.href='https://validator.schema.org/#url='+encodeURIComponent(window.location.href);

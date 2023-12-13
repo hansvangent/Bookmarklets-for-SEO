@@ -1,1 +1,1 @@
-(function(){var%20body=document.getElementsByTagName('body')[0];var%20d%20=%20new%20Date();var%20s=document.createElement('script');s.src='https://www.jeffbail.com/robots-bookmarklet/robots.js?ts='%20+%20d.getTime();body.appendChild(s)})();
+javascript:(function(){var b=document.getElementsByTagName('body')[0];var d=new Date();var s=document.createElement('script');s.src='https://raw.githubusercontent.com/hansvangent/Bookmarklets-for-SEO/master/robots.js?ts='+d.getTime();b.appendChild(s);})();
