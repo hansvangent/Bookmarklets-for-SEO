@@ -32,3 +32,12 @@ You can quickly verify whether a page was indexed or not by Google. This simple 
 
 # [google-trends-brand-name.js](https://raw.githubusercontent.com/jcvangent/bookmarklets-for-seo/master/google-trends-brand-name.js)
 This allows you to quickly access Google Trends and look at the search volume for the domain name of the site you’re accessing (it will ignore the TLD). You can check search trends for your brand name. You can also search the competition by adding other domain names with “+Add term” and compare results.
+
+# [word-and-char-count.js](https://raw.githubusercontent.com/jcvangent/bookmarklets-for-seo/master/word-and-char-count.js)
+Especially useful for content marketing.  You have to select the text and click on the bookmarklet. It will display a box with the character and word count
+
+# [duplicate-content-checker.js](https://raw.githubusercontent.com/jcvangent/bookmarklets-for-seo/master/duplicate-content-checker.js)
+It’s useful to know if the page you’re on is the original source or it’s just duplicate content. It also gives you a fast insight on whether your site has been the victim of website plagiarism.
+
+# [robots-block-checker.js](https://raw.githubusercontent.com/jcvangent/bookmarklets-for-seo/master/robots-block-checker.js)
+It will generate a box that shows you if the page you’re viewing is blocked in the Robots.txt file or not. You will also have the option to see the
