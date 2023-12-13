@@ -52,7 +52,7 @@ Especially useful for content marketing.  You have to select the text and click 
 It’s useful to know if the page you’re on is the original source or it’s just duplicate content. It also gives you a fast insight on whether your site has been the victim of website plagiarism.
 
 ## [robots-block-checker.js](https://raw.githubusercontent.com/jcvangent/bookmarklets-for-seo/master/robots-block-checker.js)
-It will generate a box that shows you if the page you’re viewing is blocked in the Robots.txt file or not. You will also have the option to see the
+It will generate a box that shows you if the page you’re viewing is blocked in the Robots.txt file or not. You will also have the option to see the full contents of the robots.txt file for the current website. If the page is blocked, the tool will indicate which specific directive in the robots.txt is causing the block. This is particularly useful for SEO purposes, helping you understand whether certain pages are disallowed from search engine crawling and indexing. The checker is an easy-to-use tool for quickly verifying a page's accessibility to search engine bots, right from your browser.
 
 ## [add-search-on-google-to-search-console.js](https://raw.githubusercontent.com/jcvangent/bookmarklets-for-seo/master/add-search-on-google-to-search-console.js)
 It removes the frustration of repeatedly copy-pasting your Google Search Console queries into a new Google search tab by adding a 'Search on Google' link to your Google Search Console Performance page. This way you can look up queries directly from your GSC dashboard, that when clicked, a new Google search tab will open with your query. Simple.
