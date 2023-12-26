@@ -58,3 +58,7 @@ It will generate a box that shows you if the page you’re viewing is blocked in
 It removes the frustration of repeatedly copy-pasting your Google Search Console queries into a new Google search tab by adding a 'Search on Google' link to your Google Search Console Performance page. This way you can look up queries directly from your GSC dashboard, that when clicked, a new Google search tab will open with your query. Simple.
 Original code: [Ziggy Shtrosberg](https://www.linkedin.com/feed/update/urn:li:activity:7140297819780706305/)
 
+## [simple-sge-source.js](https://raw.githubusercontent.com/jcvangent/bookmarklets-for-seo/master/simple-sge-source.js)
+This bookmarklet allows you to quickly extract all of the sources that are used to build the answer on your SGE (Search Generative Experience) result. Whenever you perform a search on Google for your desired term, generate the SGE (if one doesn't automatically generate), then click on the bookmarklet to extract the sources.
+Original code: [James McNulty](https://pylic.com/simple-sge-source-bookmarklet/)
+
