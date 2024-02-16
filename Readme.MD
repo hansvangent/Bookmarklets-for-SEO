@@ -11,6 +11,19 @@ Introducing the sleek SEO bookmarklets designed for professionals who value thei
 
 Ready to transform your SEO routine from chaotic to streamlined? These SEO bookmarklets are not just tools; they're your new digital power-ups ⭐️
 
+Fed up with using multiple bookmarklets in your browser, I've also started coding [Sprout SEO Extension 🌱](https://usergrowth.io/resources/sprout-seo-extension/), that has most of these bookmarklets and a whoooole bunch more in one easy to use browser extension.
+
+Other features include:
+
+* on page technical SEO audit
+* easily copy all content and/or headings from a page
+* rich results and schema.org validation for schema markup on the current page in your browser
+* exporting schema templates from websites you visit
+* finding redirect issues, including full headers at each step
+* check how your content is being shared on social
+* check if your content is shared on Reddit, and if not quickly share it yourself
+* an easy way to fix bad migrations by creating a csv export from archive.org with the old urls for the current domain
+
 ## Usage
 Copy and paste the source code (linked in the titles) prepended with `javascript:` into your bookmarks and open the bookmark to activate it.
 
