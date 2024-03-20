@@ -23,6 +23,8 @@ Other features include:
 * check how your content is being shared on social
 * check if your content is shared on Reddit, and if not quickly share it yourself
 * an easy way to fix bad migrations by creating a csv export from archive.org with the old urls for the current domain
+* hreflang checker to help you identify any hreflang issues.
+* opening up your current page in your most favorite SEO tools directly (Sistrix, Ahrefs, Semrush, MOZ, just to name a few)
 
 ## Usage
 Copy and paste the source code (linked in the titles) prepended with `javascript:` into your bookmarks and open the bookmark to activate it.
@@ -75,3 +77,6 @@ Original code: [Ziggy Shtrosberg](https://www.linkedin.com/feed/update/urn:li:ac
 This bookmarklet allows you to quickly extract all of the sources that are used to build the answer on your SGE (Search Generative Experience) result. Whenever you perform a search on Google for your desired term, generate the SGE (if one doesn't automatically generate), then click on the bookmarklet to extract the sources.
 Original code: [James McNulty](https://pylic.com/simple-sge-source-bookmarklet/)
 
+## [consent-mode-checker.js](https://raw.githubusercontent.com/jcvangent/bookmarklets-for-seo/master/consent-mode-checker.js)
+Google Consent Mode Checker Bookmarklet, which will display an alert informing you if Google Consent Mode is installed and behaving as intended with just one click. Check if Consent Mode has been implemented correctly by visiting a website, give consent, and click the bookmark to see if consent mode is updated correctly.
+Original code: [Patrick Alessi Krarup](https://www.linkedin.com/feed/update/urn:li:activity:7174507135546912768/)
