@@ -80,3 +80,8 @@ Original code: [James McNulty](https://pylic.com/simple-sge-source-bookmarklet/)
 ## [consent-mode-checker.js](https://raw.githubusercontent.com/jcvangent/bookmarklets-for-seo/master/consent-mode-checker.js)
 Google Consent Mode Checker Bookmarklet, which will display an alert informing you if Google Consent Mode is installed and behaving as intended with just one click. Check if Consent Mode has been implemented correctly by visiting a website, give consent, and click the bookmark to see if consent mode is updated correctly.
 Original code: [Patrick Alessi Krarup](https://www.linkedin.com/feed/update/urn:li:activity:7174507135546912768/)
+
+## [google-forum-search.js](https://raw.githubusercontent.com/jcvangent/bookmarklets-for-seo/master/google-forum-search.js)
+This bookmarklet enhances the functionality of Google Search, particularly with the recent testing of a new "Forums" filter in the Google search bar. It allows users to directly access forum-based discussions from platforms like Reddit, Hacker News, and various other community forums across the web with a single click.
+Original code: [Supple](https://supple.com.au/tools/google-forum-search-bookmarklet/)
+
