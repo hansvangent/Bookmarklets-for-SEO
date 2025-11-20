@@ -85,3 +85,9 @@ Original code: [Patrick Alessi Krarup](https://www.linkedin.com/feed/update/urn:
 This bookmarklet enhances the functionality of Google Search, particularly with the recent testing of a new "Forums" filter in the Google search bar. It allows users to directly access forum-based discussions from platforms like Reddit, Hacker News, and various other community forums across the web with a single click.
 Original code: [Supple](https://supple.com.au/tools/google-forum-search-bookmarklet/)
 
+## [query-fan-out-reasoning-extractor.js](https://raw.githubusercontent.com/jcvangent/bookmarklets-for-seo/master/query-fan-out-reasoning-extractor.js)
+Extract search queries, AI reasoning/thoughts, and sources from your ChatGPT conversations. This bookmarklet works with ChatGPT's current backend and GPT-5, displaying search queries, AI reasoning when present, and sources accessed (with titles, URLs, and snippets) in a formatted page with copy functionality.
+Original code: [Mike Friedman - The SEO Pub](https://theseopub.com/updated-chatgpt-search-query-reasoning-extractor-bookmarklet/)
+
+
+
